@@ -5,5 +5,7 @@ pandas
 numpy
 catboost
 xgboost
+dill
 #Flask
 #-e .
+
